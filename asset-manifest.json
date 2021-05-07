@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todoList-redux/static/css/main.d36d2fb4.chunk.css",
+    "main.js": "/todoList-redux/static/js/main.5bd2bc1a.chunk.js",
+    "main.js.map": "/todoList-redux/static/js/main.5bd2bc1a.chunk.js.map",
+    "runtime-main.js": "/todoList-redux/static/js/runtime-main.8fade638.js",
+    "runtime-main.js.map": "/todoList-redux/static/js/runtime-main.8fade638.js.map",
+    "static/js/2.374dd2bf.chunk.js": "/todoList-redux/static/js/2.374dd2bf.chunk.js",
+    "static/js/2.374dd2bf.chunk.js.map": "/todoList-redux/static/js/2.374dd2bf.chunk.js.map",
+    "static/js/3.1df34a7c.chunk.js": "/todoList-redux/static/js/3.1df34a7c.chunk.js",
+    "static/js/3.1df34a7c.chunk.js.map": "/todoList-redux/static/js/3.1df34a7c.chunk.js.map",
+    "index.html": "/todoList-redux/index.html",
+    "static/css/main.d36d2fb4.chunk.css.map": "/todoList-redux/static/css/main.d36d2fb4.chunk.css.map",
+    "static/js/2.374dd2bf.chunk.js.LICENSE.txt": "/todoList-redux/static/js/2.374dd2bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fade638.js",
+    "static/js/2.374dd2bf.chunk.js",
+    "static/css/main.d36d2fb4.chunk.css",
+    "static/js/main.5bd2bc1a.chunk.js"
+  ]
+}
